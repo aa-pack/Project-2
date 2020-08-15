@@ -28,4 +28,4 @@ By analyzing 13F filings over the past several years, we will build a model base
 ### Additional Resources
 - [AQIS Fund II FAQ - March 2019](Additional%20Resources/AQIS%20Fund%20II%20FAQ%20-%20March%202019.pdf)
 - [AQIS Strategy Review - 2019](Additional%20Resources/AQIS%20Strategy%20Review%20-%202019.pdf)
-- [Python for Finance](Additional Resources/Python%20for%20Finance%20--%20Yves%20Hilpisch.pdf)
+- [Python for Finance](Additional%20Resources/Python%20for%20Finance%20--%20Yves%20Hilpisch.pdf)

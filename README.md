@@ -1,6 +1,6 @@
 # Project 2
 
-## Team Members:
+### Team Members:
 - Connor Gross
 - Julas Hollie
 - Marcus Kim
